@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CustomGenericList")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+acfde3beab4a150446bcf8cb27458d635088713e")]
 [assembly: System.Reflection.AssemblyProductAttribute("CustomGenericList")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CustomGenericList")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -81,6 +81,65 @@ public class CustomList<T>
         return default;
     }
 
+    public CustomList<T> FindAll(Predicate<T> match)
+    {
+        CustomList<T> result = new CustomList<T>();
+        for (int i = 0; i < count; i++)
+        {
+            if (match(items[i]))
+            {
+                result.Add(items[i]);
+            }
+        }
+        
+        return result;
+    }
+
+    public bool Remove(T item)
+    {
+        for (int i = 0; i < count; i++)
+        {
+            if (items[i].Equals(item))
+            {
+                for (int j = i; j < count - 1; j++)
+                {
+                    items[j] = items[j + 1];
+                }
+
+                count--;
+                items[count] = default;
+                return true;
+            }
+        }
+        return false;
+    }
+
+    public int RemoveAll(Predicate<T> match)
+    {
+        int removed = 0;
+
+        for (int i = 0; i < count; i++)
+        {
+            if (match(items[i]))
+            {
+                for (int j = i; j < count - 1; j++)
+                {
+                    items[j] = items[j + 1];
+                }
+
+                count--;
+                items[count] = default;
+
+                i--;
+                
+                removed++;
+                
+            }
+        }
+        
+        return removed;
+    }
+
     public void ShowItems()
     {
         foreach (T i in items)

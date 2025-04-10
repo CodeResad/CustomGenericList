@@ -12,3 +12,4 @@
 /Users/rashadjafarzade/RiderProjects/CustomGenericList/CustomGenericList/obj/Debug/net9.0/CustomGenericList.pdb
 /Users/rashadjafarzade/RiderProjects/CustomGenericList/CustomGenericList/obj/Debug/net9.0/CustomGenericList.genruntimeconfig.cache
 /Users/rashadjafarzade/RiderProjects/CustomGenericList/CustomGenericList/obj/Debug/net9.0/ref/CustomGenericList.dll
+/Users/rashadjafarzade/RiderProjects/CustomGenericList/CustomGenericList/obj/Debug/net9.0/CustomGenericList.sourcelink.json
