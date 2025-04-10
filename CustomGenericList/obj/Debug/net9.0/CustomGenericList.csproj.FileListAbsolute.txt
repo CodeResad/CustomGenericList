@@ -1,0 +1,14 @@
+/Users/rashadjafarzade/RiderProjects/CustomGenericList/CustomGenericList/bin/Debug/net9.0/CustomGenericList
+/Users/rashadjafarzade/RiderProjects/CustomGenericList/CustomGenericList/bin/Debug/net9.0/CustomGenericList.deps.json
+/Users/rashadjafarzade/RiderProjects/CustomGenericList/CustomGenericList/bin/Debug/net9.0/CustomGenericList.runtimeconfig.json
+/Users/rashadjafarzade/RiderProjects/CustomGenericList/CustomGenericList/bin/Debug/net9.0/CustomGenericList.dll
+/Users/rashadjafarzade/RiderProjects/CustomGenericList/CustomGenericList/bin/Debug/net9.0/CustomGenericList.pdb
+/Users/rashadjafarzade/RiderProjects/CustomGenericList/CustomGenericList/obj/Debug/net9.0/CustomGenericList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rashadjafarzade/RiderProjects/CustomGenericList/CustomGenericList/obj/Debug/net9.0/CustomGenericList.AssemblyInfoInputs.cache
+/Users/rashadjafarzade/RiderProjects/CustomGenericList/CustomGenericList/obj/Debug/net9.0/CustomGenericList.AssemblyInfo.cs
+/Users/rashadjafarzade/RiderProjects/CustomGenericList/CustomGenericList/obj/Debug/net9.0/CustomGenericList.csproj.CoreCompileInputs.cache
+/Users/rashadjafarzade/RiderProjects/CustomGenericList/CustomGenericList/obj/Debug/net9.0/CustomGenericList.dll
+/Users/rashadjafarzade/RiderProjects/CustomGenericList/CustomGenericList/obj/Debug/net9.0/refint/CustomGenericList.dll
+/Users/rashadjafarzade/RiderProjects/CustomGenericList/CustomGenericList/obj/Debug/net9.0/CustomGenericList.pdb
+/Users/rashadjafarzade/RiderProjects/CustomGenericList/CustomGenericList/obj/Debug/net9.0/CustomGenericList.genruntimeconfig.cache
+/Users/rashadjafarzade/RiderProjects/CustomGenericList/CustomGenericList/obj/Debug/net9.0/ref/CustomGenericList.dll
